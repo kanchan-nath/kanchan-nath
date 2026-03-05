@@ -98,5 +98,5 @@ I value clean commit history, clear naming, and honest documentation.
 - **Email:** kanchannath.webdev@gmail.com
 - **LinkedIn:** [linkedin.com/in/kanchan-nath](https://www.linkedin.com/in/kanchan-nath)
 - **Instagram:** [@kanchannath.webdev](https://www.instagram.com/kanchannath.webdev)
-
+- **Hashnode:** [kanchannath.hashnode.dev](https://kanchannath.hashnode.dev) 
 ---
