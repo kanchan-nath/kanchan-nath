@@ -64,33 +64,18 @@ Backend-focused web developer and engineering student. I build APIs and services
 - Backend architecture for small to mid-size projects
 - Debugging production-style issues and edge cases
 
-## 💭 How I Approach Development
+## 📝 Blog Articles on Hashnode
 
-I care about clarity over cleverness. I prefer code that is readable, predictable, and easy to reason about six months later. I like understanding how things work under the hood instead of relying blindly on abstractions.
+I write about web development, programming tips, and tech insights on Hashnode.
+Check out my latest articles below:
 
-I usually start with a working baseline, then improve structure, error handling, and security step by step.
+| # | Title | Link |
+|---|-------|------|
+| 1 | Domain Name System | [Read →](https://kanchannath.hashnode.dev/dns-domain-name-system) |
+| 2 | Computer Networks — Complete Documentation | [Read →](https://kanchannath.hashnode.dev/computer-networks-complete-documentation) |
+| 3 | Database Relationships | [Read →](https://kanchannath.hashnode.dev/database-relationship) |
 
-## 🛠️ Tech Stack
-
-- **Languages:** JavaScript, C
-- **Backend:** Node.js, Express
-- **Frontend:** React, HTML5, CSS3
-- **Database:** MongoDB, Mongoose
-- **Auth:** JWT, bcrypt
-- **Tools:** Git, GitHub, Postman, Docker
-
-## 🌱 Open Source and Learning
-
-Most of my projects are learning-driven and based on real backend use cases. I study existing codebases, recreate features from scratch, and gradually refactor them to production-level quality.
-
-I value clean commit history, clear naming, and honest documentation.
-
-## 🎯 Current Focus
-
-- Writing safer authentication flows
-- Improving API structure and error handling
-- Understanding browser and backend security concepts
-- Moving from tutorial-based code to self-designed systems
+> 🔗 Find all my articles at [kanchannath.hashnode.dev](https://kanchannath.hashnode.dev/)
 
 ## 📫 Contact
 
