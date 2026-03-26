@@ -1,87 +1,147 @@
-<h1 align="center">Hi 👋! My name is Kanchan and I'm a Web Dev, from India</h1>
+<p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=Hello+Fellow+%3C+Coders+%2F+%3E!+%F0%9F%91%8B;Welcome+to+my+GitHub+Profile!;I+build+cool+things+with+code+%F0%9F%9A%80;Let%27s+connect+and+collaborate!+%F0%9F%A4%9D"
+        alt="Typing SVG" />
+</p>
 
-###
 
-<img align="right" height="150" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWp2Mmc4YnRuaHBia2Y2NTQ0cnhiN3Mya25tYWUydWQ5MzJycGtvcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+<p align="center">
+    <em>Production-ready backend in progress | APIs built, systems deployed, learning at scale.</em>
+</p>
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=black&style=for-the-badge" height="30" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
-</div>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/kanchannath.webdev" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="mailto:kanchannath.webdev@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/kanchan-nath" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
-
-<br clear="both">
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=kanchan-nath&label=PROFILE+VIEWS&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+### 🏆 GitHub Trophies
 
-Backend-focused web developer and engineering student. I build APIs and services that are simple, secure, and easy to maintain. I learn by building, reading real code, and contributing when possible.
+<p align="center">
+    <img
+        src="https://github-trophies.vercel.app/?username=kanchan-nath&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
 
-## 🚀 What I Work On
-
-- REST APIs with Node.js and Express
-- Authentication and authorization flows
-- MongoDB and Mongoose data models
-- Backend architecture for small to mid-size projects
-- Debugging production-style issues and edge cases
-
-## 📝 Blog Articles on Hashnode
-
-I write about web development, programming tips, and tech insights on Hashnode.
-Check out my latest articles below:
-
-| # | Title | Link |
-|---|-------|------|
-| 1 | Domain Name System | [Read →](https://kanchannath.hashnode.dev/dns-domain-name-system) |
-| 2 | Computer Networks — Complete Documentation | [Read →](https://kanchannath.hashnode.dev/computer-networks-complete-documentation) |
-| 3 | Database Relationships | [Read →](https://kanchannath.hashnode.dev/database-relationship) |
-
-> 🔗 Find all my articles at [kanchannath.hashnode.dev](https://kanchannath.hashnode.dev/)
-
-## 📫 Contact
-
-- **GitHub:** [github.com/kanchan-nath](https://github.com/kanchan-nath)
-- **Email:** kanchannath.webdev@gmail.com
-- **LinkedIn:** [linkedin.com/in/kanchan-nath](https://www.linkedin.com/in/kanchan-nath)
-- **Instagram:** [@kanchannath.webdev](https://www.instagram.com/kanchannath.webdev)
-- **Hashnode:** [kanchannath.hashnode.dev](https://kanchannath.hashnode.dev) 
 ---
+
+### 📊 Contribution Statistics
+
+<p align="center">
+    <img
+        src="https://github-readme-stats.vercel.app/api?username=kanchan-nath&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+    &nbsp;
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kanchan-nath&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=kanchan-nath&theme=react-dark&hide_border=true"
+        width="100%" />
+</p>
+
+---
+
+### 📅 GitHub Profile Summary
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kanchan-nath&theme=tokyonight"
+        width="100%" />
+</p>
+
+<p align="center">
+    <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kanchan-nath&theme=tokyonight" />
+    &nbsp;
+    <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kanchan-nath&theme=tokyonight" />
+</p>
+
+<p align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kanchan-nath&theme=tokyonight" />
+    &nbsp;
+    <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kanchan-nath&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+    <img
+        src="https://raw.githubusercontent.com/kanchan-nath/kanchan-nath/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+### 🖥️ Technology Stack
+
+<p align="center">
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+    <img src="https://img.shields.io/badge/BullMQ-FF6B6B?style=for-the-badge&logo=bull&logoColor=white" />
+    <img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+    <br /><br />
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img
+        src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="center">
+    <a href="https://github.com/kanchan-nath">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+    <a href="mailto:kanchannath.webdev@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://linkedin.com/in/kanchan-nath">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://instagram.com/kanchannath.webdev">
+        <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    </a>
+    <a href="https://kanchannath.hashnode.dev">
+        <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+    </a>
+</p>
+
+---
+
+### ✍️ Latest Blog Posts
+
+<p align="center">
+    <a href="https://kanchannath.hashnode.dev/domain-name-system">
+        <img
+            src="https://img.shields.io/badge/📡 Domain Name System-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+    </a>
+    <br /><br />
+    <a href="https://kanchannath.hashnode.dev/computer-networks-complete-documentation">
+        <img
+            src="https://img.shields.io/badge/🌐 Computer Networks — Complete Docs-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+    </a>
+    <br /><br />
+    <a href="https://kanchannath.hashnode.dev/database-relationships">
+        <img
+            src="https://img.shields.io/badge/🗄️ Database Relationships-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
+    </a>
+    <br /><br />
+    <a href="https://kanchannath.hashnode.dev">
+        <img
+            src="https://img.shields.io/badge/🔗 View All Articles on Hashnode-000000?style=for-the-badge&logo=hashnode&logoColor=2962FF" />
+    </a>
+</p>
